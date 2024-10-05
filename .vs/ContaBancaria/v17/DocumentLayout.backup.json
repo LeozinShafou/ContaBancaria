@@ -1,0 +1,94 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Leo\\source\\repos\\ContaBancaria\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8245CF8B-8011-495F-B9E2-BC94B0D23BA9}|ContaBancaria\\ContaBancaria.csproj|c:\\users\\leo\\source\\repos\\contabancaria\\contabancaria\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8245CF8B-8011-495F-B9E2-BC94B0D23BA9}|ContaBancaria\\ContaBancaria.csproj|solutionrelative:contabancaria\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8245CF8B-8011-495F-B9E2-BC94B0D23BA9}|ContaBancaria\\ContaBancaria.csproj|c:\\users\\leo\\source\\repos\\contabancaria\\contabancaria\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8245CF8B-8011-495F-B9E2-BC94B0D23BA9}|ContaBancaria\\ContaBancaria.csproj|solutionrelative:contabancaria\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8245CF8B-8011-495F-B9E2-BC94B0D23BA9}|ContaBancaria\\ContaBancaria.csproj|c:\\users\\leo\\source\\repos\\contabancaria\\contabancaria\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8245CF8B-8011-495F-B9E2-BC94B0D23BA9}|ContaBancaria\\ContaBancaria.csproj|solutionrelative:contabancaria\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8245CF8B-8011-495F-B9E2-BC94B0D23BA9}|ContaBancaria\\ContaBancaria.csproj|c:\\users\\leo\\source\\repos\\contabancaria\\contabancaria\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8245CF8B-8011-495F-B9E2-BC94B0D23BA9}|ContaBancaria\\ContaBancaria.csproj|solutionrelative:contabancaria\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "login.cs",
+              "DocumentMoniker": "C:\\Users\\Leo\\source\\repos\\ContaBancaria\\ContaBancaria\\login.cs",
+              "RelativeDocumentMoniker": "ContaBancaria\\login.cs",
+              "ToolTip": "C:\\Users\\Leo\\source\\repos\\ContaBancaria\\ContaBancaria\\login.cs",
+              "RelativeToolTip": "ContaBancaria\\login.cs",
+              "ViewState": "AgIAAC8AAAAAAAAAAAAcwEsAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-02T23:34:18.938Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "user.cs",
+              "DocumentMoniker": "C:\\Users\\Leo\\source\\repos\\ContaBancaria\\ContaBancaria\\user.cs",
+              "RelativeDocumentMoniker": "ContaBancaria\\user.cs",
+              "ToolTip": "C:\\Users\\Leo\\source\\repos\\ContaBancaria\\ContaBancaria\\user.cs",
+              "RelativeToolTip": "ContaBancaria\\user.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-02T23:31:15.794Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Menu.cs",
+              "DocumentMoniker": "C:\\Users\\Leo\\source\\repos\\ContaBancaria\\ContaBancaria\\Menu.cs",
+              "RelativeDocumentMoniker": "ContaBancaria\\Menu.cs",
+              "ToolTip": "C:\\Users\\Leo\\source\\repos\\ContaBancaria\\ContaBancaria\\Menu.cs",
+              "RelativeToolTip": "ContaBancaria\\Menu.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAgwBUAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T00:12:26.679Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Leo\\source\\repos\\ContaBancaria\\ContaBancaria\\Program.cs",
+              "RelativeDocumentMoniker": "ContaBancaria\\Program.cs",
+              "ToolTip": "C:\\Users\\Leo\\source\\repos\\ContaBancaria\\ContaBancaria\\Program.cs",
+              "RelativeToolTip": "ContaBancaria\\Program.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAgwDwAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-02T23:29:41.666Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
